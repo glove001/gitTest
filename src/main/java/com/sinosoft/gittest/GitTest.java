@@ -13,6 +13,8 @@ public class GitTest {
         System.out.println("yayayaya");
         System.out.println("hot-fix分支1");
 
+        System.out.println("11111");
+
         System.out.println("1111");
         System.out.println("2222");
     }
